@@ -1,0 +1,22 @@
+{
+  "name": "cidskode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michelluther/CidsKode.git"
+  },
+  "author": "Leo Luther",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michelluther/CidsKode/issues"
+  },
+  "homepage": "https://github.com/michelluther/CidsKode#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
